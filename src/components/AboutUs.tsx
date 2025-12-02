@@ -31,7 +31,7 @@ export function AboutUs() {
                 display: "inline-block",
               }}
             >
-              About udds
+              About us
             </h2>
             <p style={{ color: "#4b5563", fontSize: "18px" }}>
               Discover offers around you
