@@ -34,7 +34,7 @@ export function AboutUs() {
               About us
             </h2>
             <p style={{ color: "#4b5563", fontSize: "18px" }}>
-              Discover offers around the world
+              Discover offers around the worlds
             </p>
           </motion.div>
         </div>
